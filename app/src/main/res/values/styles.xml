@@ -1,0 +1,14 @@
+<resources>
+    <!-- Backpack widgets require a theme derived from BpkTheme. -->
+    <style name="Theme.Flightscry" parent="BpkTheme">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/sky_background</item>
+        <item name="android:navigationBarColor">@color/sky_background</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>
+

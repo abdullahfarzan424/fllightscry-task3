@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Flightscry</string>
+    <string name="eyebrow">YOUR UPCOMING TRIP</string>
+    <string name="screen_title">Flight itinerary</string>
+    <string name="sample_note">Sample flight details for the Flightscry demo</string>
+    <string name="flight_label">FLIGHT INFORMATION</string>
+    <string name="flight_number">UL 503</string>
+    <string name="flight_route">Colombo to London</string>
+    <string name="departure_label">DEPARTURE</string>
+    <string name="departure_code">CMB</string>
+    <string name="departure_airport">Bandaranaike International Airport</string>
+    <string name="departure_time">10:30 AM</string>
+    <string name="arrival_label">ARRIVAL</string>
+    <string name="arrival_code">LHR</string>
+    <string name="arrival_airport">London Heathrow Airport</string>
+    <string name="arrival_time">5:45 PM</string>
+    <string name="time_label">Local time</string>
+</resources>
+
